@@ -12,8 +12,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- ## Ferramentas e Tecnologias
-
 ## Aplications
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
