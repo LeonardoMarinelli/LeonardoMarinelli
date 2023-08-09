@@ -6,13 +6,6 @@
 <a href="https://www.linkedin.com/in/leomarinelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## O que ando fazendo?
-<div>
-<a href="https://github.com/LeonardoMarinelli">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarinelli&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarinelli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Linguagens
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
