@@ -10,9 +10,9 @@
 <img src="https://skillicons.dev/icons?i=java,dotnet,cs,py,kotlin,html,htmx,css,js"/>
 </div>
 
-## 📚 Linguagens e tecnologias a serem dominadas
+## 📚 Linguagens (que estou estudando diariamente)
 <div>
-<img src="https://skillicons.dev/icons?i=angular,aws,go,c"/>
+<img src="https://skillicons.dev/icons?i=angular,html,htmx,css,js,ts,java,spring"/>
 </div>
  
 ## 📃 Banco de Dados
