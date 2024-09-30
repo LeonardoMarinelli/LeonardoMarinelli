@@ -22,7 +22,7 @@
 
 ## 💻 Tecnologias
 <div> 
-<img src="https://skillicons.dev/icons?i=spring,docker,git,github,kafka,maven,flask,selenium,hibernate,opencv,unity,postman"/>
+<img src="https://skillicons.dev/icons?i=spring,docker,git,github,kafka,maven,selenium,hibernate,opencv,unity,postman"/>
 </div>
 
 ## 📟 IDEs
