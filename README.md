@@ -1,6 +1,9 @@
-I am a passionate Computer Scientist and Software Architect specializing in system design, data science, and cybersecurity. Currently, I work at Rissi Contabilidade em Saúde, where I contribute across the full development lifecycle—from architecting scalable solutions and building APIs and microservices to implementing RPA automation and delivering BI insights.
+I am a Computer Scientist and Backend Engineer with 4 years of experience building and modernizing business-critical software systems.
 
-I'm always learning and seeking new challenges to drive meaningful impact through technology.
+My main focus is backend development, working with Java, Spring Boot, C#/.NET, Python, SQL databases, and cloud technologies. I have experience across the full software development lifecycle, from designing APIs and microservices to modernizing legacy systems, automating operational processes, and improving system performance.
+
+Outside of my professional work, I build personal projects to explore new technologies and continuously strengthen my engineering skills.
+Always learning, building, and looking for challenging problems where technology can create meaningful impact.
 
 🎓 Education
 
